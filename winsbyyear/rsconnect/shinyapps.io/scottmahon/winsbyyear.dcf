@@ -1,0 +1,13 @@
+name: winsbyyear
+title: winsbyyear
+username:
+account: scottmahon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2054094
+bundleId: 2966580
+url: https://scottmahon.shinyapps.io/winsbyyear/
+when: 1585954147.91263
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: wins.png|wins.rds
